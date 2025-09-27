@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "lastUpdate": "2024-01-15T10:30:00Z",
+  "docs": [
+    {
+      "name": "getting-started",
+      "title": "快速开始",
+      "emoji": "🚀",
+      "description": "了解如何使用我们的API服务，包括认证、请求格式和基本示例",
+      "category": "基础指南",
+      "date": "2024-01-15",
+      "tags": ["入门", "基础", "认证"],
+      "order": 1
+    },
+    {
+      "name": "bing-daily-image",
+      "title": "Bing每日一图API",
+      "emoji": "🖼️",
+      "description": "获取Bing搜索引擎的每日精美壁纸，支持多种格式和参数配置",
+      "category": "图片服务",
+      "date": "2024-01-15",
+      "tags": ["图片", "壁纸", "Bing", "缓存"],
+      "order": 2
+    }
+  ]
+}
